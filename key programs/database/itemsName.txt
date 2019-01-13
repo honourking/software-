@@ -1,0 +1,6 @@
+1.txt,小米八屏幕指纹版
+2.txt,森马羽绒服
+3.txt,兰蔻口红
+4.txt,斯伯丁篮球
+5.txt,UNO男士洗面奶
+6.txt,iphoneX
